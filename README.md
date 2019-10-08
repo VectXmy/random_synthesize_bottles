@@ -27,6 +27,6 @@
 * 2019/4/15  添加merge_coco_json.py,生成主程序见generator.py待完善  
 * 2019/4/16  增加step保存   
 ## 效果  
-![test](http://github/VectXmy/random_synthesize_bottles/raw/master/imgs/out1.jpg)   
+![test](https://github.com/VectXmy/random_synthesize_bottles/blob/master/imgs/out1.jpg?raw=true)   
 
 
